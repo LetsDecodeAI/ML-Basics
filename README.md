@@ -11,13 +11,13 @@ The goal is to bridge the gap between Theoretical Math and Practical Python Code
 🤝 Connect
 If you found this helpful, check out the tutorials on YouTube!
 
-YouTube: [[Lets Decode AI](https://www.youtube.com/@LetsDecodeAI-2025)]
+[[YouTube](https://www.youtube.com/@LetsDecodeAI-2025)]
 
-Instagram: [instagram.com/letsdecodeai]
+[[Instagram](instagram.com/letsdecodeai)]
 
-LinkedIn: [linkedin.com/company/lets-decode-ai]
+[[LinkedIn](linkedin.com/company/lets-decode-ai)]
 
-Website: [https://letsdecodeai.in/]
+[[Website](https://letsdecodeai.in/)]
 
 
 Created with ❤️ by Lets Decode AI. Don't forget to ⭐ star the repo if this helped you!
