@@ -1,5 +1,8 @@
 # 🧠 ML Basics - Lets Decode AI
 
+![Lets Decode AI logo Side name cropped (1)](https://github.com/user-attachments/assets/0deb3730-5460-4c24-9438-fadc7a1a6cda)
+
+
 Welcome to the official repository for **Lets Decode AI**! 
 
 This repository is dedicated to stripping away the complexity of Machine Learning libraries (like Scikit-Learn) and building algorithms **from scratch** to understand the underlying mathematics and logic.
